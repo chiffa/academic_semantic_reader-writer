@@ -8,7 +8,7 @@ Requirements:
   - GO
   - Terms tagged as unfoldable (inner definition / abbreviation / bibliography / supplementary data / figure)
    - fallback behavior of verification of googlability / wikipediability of terms that are not in the main dictionary
-- Must be able to match inner definitions (abbreviations, model names) and support linking to definitions
+ - Must be able to match inner definitions (abbreviations, model names) and support linking to definitions
   - The idea is to treat them as binding a function to a variable in programming languages and re-using the variable elsewhere
   - Attach rationale to the inner/outer term declaration 
   - Warn if the terms are used in text prior to their rationale declaration.
